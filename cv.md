@@ -28,3 +28,14 @@ Junior Software Developer at Transporeon gmbh
 *Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie*
 
 Bachelor's degree, Computer Science
+
+## Code example
+```javascript
+function calculateFactorial(number) {
+  if (number <= 1) {
+    return 1; 
+  } else {
+    return number * calculateFactorial(number - 1); 
+  }
+}
+```
