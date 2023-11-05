@@ -39,3 +39,9 @@ function calculateFactorial(number) {
   }
 }
 ```
+
+## Languages
+* Ukrainian: C2
+* Russian: C2
+* English: C1
+* Polish: B2
