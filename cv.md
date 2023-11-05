@@ -16,3 +16,15 @@ I am a dedicated back-end developer with a strong passion for coding and problem
 * Spring Boot, Hibernate
 * ActiveMQ
 * Jenkins, Kubernetes
+
+## Work experience
+2022/01 - Present
+
+Junior Software Developer at Transporeon gmbh
+
+## Education
+2022-2026
+
+*Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie*
+
+Bachelor's degree, Computer Science
